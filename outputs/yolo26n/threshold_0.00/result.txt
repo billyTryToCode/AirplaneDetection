@@ -1,0 +1,27 @@
+[INFO] Using device: cuda
+[INFO] Loading model: yolo26n.pt
+[INFO] Output dir: outputs/yolo26n/threshold_0.00
+[INFO] Processing: 16.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/16.jpg | Count: 149
+[INFO] Processing: 2.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/2.jpg | Count: 90
+[INFO] Processing: 2a.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/2a.jpg | Count: 85
+[INFO] Processing: 3.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/3.jpg | Count: 108
+[INFO] Processing: 4.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/4.jpg | Count: 131
+[INFO] Processing: 4a.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/4a.jpg | Count: 166
+[INFO] Processing: 4b.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/4b.jpg | Count: 156
+[INFO] Processing: 5.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/5.jpg | Count: 110
+[INFO] Processing: 6.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/6.jpg | Count: 184
+[INFO] Processing: 9.jpg
+[INFO] Saved: outputs/yolo26n/threshold_0.00/9.jpg | Count: 137
+==================================================
+[DONE] Total images: 10
+[DONE] Total airplanes detected: 1316
+[DONE] Results saved to: outputs/yolo26n/threshold_0.00

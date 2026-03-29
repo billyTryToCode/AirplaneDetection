@@ -1,0 +1,12 @@
+16.jpg -> airplanes: 7
+2.jpg -> airplanes: 2
+2a.jpg -> airplanes: 3
+3.jpg -> airplanes: 3
+4.jpg -> airplanes: 4
+4a.jpg -> airplanes: 3
+4b.jpg -> airplanes: 4
+5.jpg -> airplanes: 5
+6.jpg -> airplanes: 6
+9.jpg -> airplanes: 9
+Airplanes in total: 46
+Annotated images saved to: outputs/thresh_0.30

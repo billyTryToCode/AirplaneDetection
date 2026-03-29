@@ -1,0 +1,27 @@
+[INFO] Using device: cuda
+[INFO] Loading model: yolov8n.pt
+[INFO] Output dir: outputs/yolov8n/threshold_0.20
+[INFO] Processing: 16.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/16.jpg | Count: 0
+[INFO] Processing: 2.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/2.jpg | Count: 2
+[INFO] Processing: 2a.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/2a.jpg | Count: 3
+[INFO] Processing: 3.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/3.jpg | Count: 3
+[INFO] Processing: 4.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/4.jpg | Count: 4
+[INFO] Processing: 4a.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/4a.jpg | Count: 2
+[INFO] Processing: 4b.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/4b.jpg | Count: 4
+[INFO] Processing: 5.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/5.jpg | Count: 5
+[INFO] Processing: 6.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/6.jpg | Count: 6
+[INFO] Processing: 9.jpg
+[INFO] Saved: outputs/yolov8n/threshold_0.20/9.jpg | Count: 9
+==================================================
+[DONE] Total images: 10
+[DONE] Total airplanes detected: 38
+[DONE] Results saved to: outputs/yolov8n/threshold_0.20
