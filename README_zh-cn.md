@@ -1,5 +1,3 @@
-#  Airplane Detection Project
-
 - [English](README.md)
 - [中文](README_zh-cn.md) (你在这！)
 
@@ -96,6 +94,20 @@ yolo help
 
 ---
 
+##  8. 克隆仓库
+
+```bash
+git clone https://github.com/billyTryToCode/AirplaneDetection.git
+```
+
+然后cd进入文件夹AirplaneDetection.
+
+```bash
+cd AirplaneDetection
+```
+
+---
+
 ##  项目结构
 
 ```
@@ -111,6 +123,7 @@ yolo help
 
 ##  重要说明
 
+* 确保在AirplaneDetection文件夹内以运行程序！
 * `outputs/` 文件夹中已经包含之前的运行结果
 * 程序运行时会**覆盖该文件夹**
 
@@ -146,7 +159,7 @@ cp -r outputs outputs_backup
 
 ---
 
-##  8. 运行检测
+##  9. 运行检测
 
 ### Faster R-CNN
 

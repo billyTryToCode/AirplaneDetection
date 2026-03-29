@@ -1,5 +1,3 @@
-#  Airplane Detection Project
-
 - [English](README.md) (You are here!)
 - [中文](README_zh-cn.md)
 
@@ -96,6 +94,20 @@ If no error appears, installation is successful.
 
 ---
 
+##  8. Clone the repository
+
+```bash
+git clone https://github.com/billyTryToCode/AirplaneDetection.git
+```
+
+And then change the directory to AirplaneDetection.
+
+```bash
+cd AirplaneDetection
+```
+
+---
+
 ##  Project Structure
 
 ```
@@ -111,6 +123,7 @@ If no error appears, installation is successful.
 
 ##  Important Notes
 
+* Make sure you are in the directory to run the commands!
 * The `outputs/` folder already contains previous results.
 * Running the program will **overwrite this folder**.
 
@@ -145,7 +158,7 @@ cp -r outputs outputs_backup
 
 ---
 
-##  8. Run Detection
+##  9. Run Detection
 
 ### Faster R-CNN
 
